@@ -127,20 +127,6 @@ This Power BI dashboard includes:
 
 ---
 
-## How to Use
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/logistics-dashboard-powerbi.git
-   ```
-
-2. **Open the Power BI file**: Import the dataset provided in the repository.
-
-3. **Customize**: Modify visuals, measures, or filters based on your specific needs.
-
-4. **Refresh Data**: Connect the dataset to your live data source for real-time insights.
-
----
-
 ## Purpose
 This project demonstrates the application of Power BI for analyzing and visualizing logistics data. It serves as a template for real-world use cases, enabling stakeholders to make data-driven decisions that:
 - Optimize operations.
